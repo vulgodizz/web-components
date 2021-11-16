@@ -18,24 +18,24 @@ Para fazer a instalação do componente siga os seguintes passos:
 2 - Após a liberação importe o script do componente em seu site. 
 
 ```html
- <script type="text/javascript" defer src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/beautifier/scrip.min.js"></script>
+    <script type="text/javascript" defer src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/beautifier/scrip.min.js"></script>
 ```
     
 3 - Coloque a tag do componente onde você deseja que o mesmo seja renderizado.
 
 ### HTML
 ```html
- <comp-beautifier mode="html"></comp-beautifier>
+<comp-beautifier mode="html"></comp-beautifier>
 ```
 
 ### CSS
 ```html
-    <comp-beautifier mode="css"></comp-beautifier>
+<comp-beautifier mode="css"></comp-beautifier>
 ```
 
 ###  Javascript
 ```html
-     <comp-beautifier mode="js"></comp-beautifier>
+<comp-beautifier mode="js"></comp-beautifier>
 ```
 
 4 - Pronto, o componente já está instalado e funcionando.
