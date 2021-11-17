@@ -17,7 +17,7 @@ Para fazer a instalação do componente siga os seguintes passos:
 
 2 - Após a liberação copie e cole o script abaixo onde o componente será renderizado.
 
-Obs: para instalação Wordpress você pode adicionar o código abaixo na opção Html Personalziado.
+Obs: para instalação Wordpress você pode adicionar o código abaixo na opção Html Personalizado.
 
 ```html
     <script type="text/javascript" defer src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/contador-de-caracteres/lazy.min.js"></script>
