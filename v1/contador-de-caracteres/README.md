@@ -3,7 +3,7 @@
 
 Web component para fazer a contagem de caracteres, linhas e palavras em um texto.
 
-Componente de fácil instalação em qualquer tipo de site, wordpress, cms próprio, joomla e etc.
+Componente de fácil instalação em qualquer tipo de site, wordpress, cms próprio, joomla, drupal e etc.
 
 
 
