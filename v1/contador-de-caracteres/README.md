@@ -18,7 +18,7 @@ Para fazer a instalação do componente siga os seguintes passos:
 2 - Após a liberação importe o script do componente em seu site. 
 
 ```html
-    <script type="text/javascript" defer src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/contador-de-caracteres/script.min.js"></script>
+    <script type="text/javascript" defer src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/contador-de-caracteres/lazy.min.js"></script>
 ```
     
 3 - Coloque a tag do componente onde você deseja que o mesmo seja renderizado.
