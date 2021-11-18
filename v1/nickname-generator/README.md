@@ -31,14 +31,14 @@ Obs: para instalação Wordpress você pode adicionar o código abaixo na opçã
 ```
 Obs: as cores do componente poderão ser personalizadas de acordo com o parâmetro passado. Por defualt ele assume as cores acima.
 
--   content-color: cor de fundo do container onde os nicknames são gerados.
+-   **content-color**: cor de fundo do container onde os nicknames são gerados.
 
--   content-font-color: cor da fonte dos nicknames.
+-   **content-font-color**: cor da fonte dos nicknames.
 
--   main-container-background: cor de fundo do componente todo.
+-   **main-container-background**: cor de fundo do componente todo.
 
--   btn-copy-background: cor de fundo do botão de copiar.
+-   **btn-copy-background**: cor de fundo do botão de copiar.
 
--   btn-copy-font: cor da fonte do botão de copiar.
+-   **btn-copy-font**: cor da fonte do botão de copiar.
 
 3 - Pronto, o componente já está instalado e funcionando.
