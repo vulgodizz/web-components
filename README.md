@@ -1,4 +1,4 @@
-# Componentes personalizados
+# Ready-made web components
 
 Ready-made web components for easy installation on any type of website and application.
 
