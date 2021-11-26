@@ -8,7 +8,7 @@ Instalação compativel com qualquer tipo de site, wordpress, cms próprio, joom
 
 Para a instalação do web component siga os seguintes passos:
 
-1 - Solicite a permissão de acesso no web component através do e-mail: contato@diegoaugusto.com
+1 - Solicite a permissão de acesso no web component através do e-mail: contato@diegoaugusto.com ou site : [https://diegoaugusto.com](https://diegoaugusto.com)
 
 2 - Após a liberação copie e cole o script abaixo onde o web component será renderizado.
 
