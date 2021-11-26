@@ -1,11 +1,14 @@
 # Componentes personalizados
 
-Componentes prontos de fácil instalação em qualquer tipo de site e aplicativo.
+Ready-made web components for easy installation on any type of website and application.
 
-- [Contador de caracteres](contador-de-caracteres/README.md)
+- [Character counter](contador-de-caracteres/README.md)
 
-- [Gerador de nicknames](nickname-generator/README.md)
+- [Nickname generator](nickname-generator/README.md)
 
-- [Texto com fontes personalizadas](write-fonts/README.md)
+- [Text with custom fonts](write-fonts/README.md)
 
-- [Beuatifier de CSS, HTML e JS](beautifier/README.md)
+- [CSS, HTML and JS Beautifier](beautifier/README.md)
+
+
+Get in contact : [https://diegoaugusto.com](https://diegoaugusto.com)
