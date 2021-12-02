@@ -2,13 +2,13 @@
 
 Ready-made web components for easy installation on any type of website and application.
 
-- [Character counter](v1/contador-de-caracteres/README.md)
+- [Character counter](v1/contador-de-caracteres/)
 
-- [Nickname generator](v1/nickname-generator/README.md)
+- [Nickname generator](v1/nickname-generator/)
 
-- [Text with custom fonts](v1/write-fonts/README.md)
+- [Text with custom fonts](v1/write-fonts/)
 
-- [CSS, HTML and JS Beautifier](v1/beautifier/README.md)
+- [CSS, HTML and JS Beautifier](v1/beautifier/)
 
 
 Get in contact : [https://diegoaugusto.com](https://diegoaugusto.com)
