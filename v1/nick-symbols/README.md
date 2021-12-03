@@ -18,7 +18,7 @@ Obs: para instalação Wordpress você pode adicionar o código abaixo na opçã
 <script
   type="text/javascript"
   defer
-  src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/nick-symbols/lazy.min.js"
+  src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/nick-symbols/lazy.1.min.js"
 ></script>
 
 <nick-symbols></nick-symbols>
