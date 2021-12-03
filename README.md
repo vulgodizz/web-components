@@ -4,6 +4,8 @@ Ready-made web components for easy installation on any type of website and appli
 
 - [Character counter](v1/contador-de-caracteres/)
 
+- [Simbolos em texto](v1/nick-symbols/)
+
 - [Nickname generator](v1/nickname-generator/)
 
 - [Text with custom fonts](v1/write-fonts/)
