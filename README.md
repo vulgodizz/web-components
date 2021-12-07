@@ -8,7 +8,7 @@ Ready-made web components for easy installation on any type of website and appli
 
 - [Text with custom fonts](v1/write-fonts/)
 
-- [Text with symbols(v1/nick-symbols/)
+- [Text with symbols](v1/nick-symbols/)
 
 - [Nickname generator](v1/nickname-generator/)
 
