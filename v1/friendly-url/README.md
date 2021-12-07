@@ -22,7 +22,13 @@ Obs: para instalação Wordpress você pode adicionar o código abaixo na opçã
 ```html
     <script type="text/javascript" defer src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/friendly-url/lazy.min.js"></script>
 
-    <friendly-url></friendly-url>
+    <friendly-url btn-copy-background="#AE47FF" btn-copy-font="#FFFFFF"></friendly-url>
 ```
+4 - Personalização de cores (opcional)
+As cores do Web component poderão ser personalizadas de acordo com o parâmetro passado. Por defualt ele assume as cores acima.
+
+-   **btn-copy-background**: cor de fundo do botão de copiar.
+
+-   **btn-copy-font**: cor da fonte do botão de copiar.
     
-3 - Pronto, o componente já está instalado e funcionando.
+5 - Pronto, o componente já está instalado e funcionando.
