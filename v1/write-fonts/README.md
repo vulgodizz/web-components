@@ -18,10 +18,15 @@ Obs: para instalação Wordpress você pode adicionar o código abaixo na opçã
 <script
   type="text/javascript"
   defer
-  src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/write-fonts/lazy.5.min.js"
+  src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/write-fonts/lazy.6.min.js"
 ></script>
 
-<write-fonts></write-fonts>
+ <write-fonts input-text="Exemplo de texto"></write-fonts>
 ```
 
-3 - Pronto, o web component já está instalado e funcionando.
+4 - Personalização de texto (opcional)
+Você pode alterar o texto inicial que é carregado no web component.
+
+-   **input-text**: texto inicial do web component.
+
+5 - Pronto, o web component já está instalado e funcionando.
