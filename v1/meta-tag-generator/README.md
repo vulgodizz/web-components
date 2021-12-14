@@ -18,7 +18,7 @@ Obs: para instalação Wordpress você pode adicionar o código abaixo na opçã
 <script
   type="text/javascript"
   defer
-  src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/meta-tag-generator/lazy.1.min.js"
+  src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/meta-tag-generator/lazy.2.min.js"
 ></script>
 
  <meta-tag-generator></meta-tag-generator>
