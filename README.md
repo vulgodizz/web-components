@@ -16,5 +16,7 @@ Ready-made web components for easy installation on any type of website and appli
 
 - [Meta tag generator](v1/meta-tag-generator/)
 
+- [Meta tag generator](v1/text-art/)
+
 
 Get in contact : [https://diegoaugusto.com](https://diegoaugusto.com)
