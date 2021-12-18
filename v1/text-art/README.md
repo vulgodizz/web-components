@@ -27,12 +27,6 @@ Obs: para instalação Wordpress você pode adicionar o código abaixo na opçã
 4 - Personalização (opcional)
   Você pode alterar a opção que será inicializada no Web component  (Emoji, Emoticons e Formas)
 
--   **index**: 0, 1 ou 2
-
-**0**: Emoji
-
-**1**: Emoticons
-
-**2**: Formas
+-   **index**: 0 (Emoji), 1 (Emoticons) ou 2 (Formas)
 
 5 - Pronto, o web component já está instalado e funcionando.
