@@ -18,7 +18,7 @@ Obs: para instalação Wordpress você pode adicionar o código abaixo na opçã
 <script
   type="text/javascript"
   defer
-  src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/text-art/lazy.1.min.js"
+  src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/text-art/lazy.2.min.js"
 ></script>
 
 <text-art index="0"></text-art>
