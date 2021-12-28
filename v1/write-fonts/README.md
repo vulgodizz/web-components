@@ -18,7 +18,7 @@ Obs: para instalação Wordpress você pode adicionar o código abaixo na opçã
 <script
   type="text/javascript"
   defer
-  src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/write-fonts/lazy.7.min.js"
+  src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/write-fonts/lazy.8.min.js"
 ></script>
 
  <write-fonts input-text="Exemplo de texto"></write-fonts>
@@ -28,5 +28,7 @@ Obs: para instalação Wordpress você pode adicionar o código abaixo na opçã
 Você pode alterar o texto inicial que é carregado no web component.
 
 -   **input-text**: texto inicial do web component.
+
+-   **top-position**: Posição do top da caixa de texto ao dar scroll.
 
 5 - Pronto, o web component já está instalado e funcionando.
