@@ -20,7 +20,7 @@ Obs: para instalação Wordpress você pode adicionar o código abaixo na opçã
 <script
   type="text/javascript"
   defer
-  src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/gerador-de-curriculo/lazy.6.min.js"
+  src="https://cdn.jsdelivr.net/gh/vulgodizz/web-components/v1/gerador-de-curriculo/lazy.7.min.js"
 ></script>
 
 <gerador-de-curriculo></gerador-de-curriculo>
